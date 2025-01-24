@@ -1,0 +1,7 @@
+requests
+numpy
+pandas
+solana
+web3
+tensorflow  # For AI models (if you use TensorFlow)
+torch        # For AI models (if you use PyTorch)
