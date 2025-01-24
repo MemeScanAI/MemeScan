@@ -1,6 +1,3 @@
-Sure! Here's a refined and professional version of your `README.md` that will give the Memescan project a polished, high-quality appearance:
-
-```markdown
 # Memescan: AI-Powered Solana Memecoin Scanner 🚀
 
 Memescan is an advanced, AI-powered scanning solution designed for the Solana blockchain, specifically for analyzing memecoin contracts. Our cutting-edge models provide deep contract analysis, identify vulnerabilities, monitor market trends, and detect coordinated trading patterns with unparalleled precision. 
