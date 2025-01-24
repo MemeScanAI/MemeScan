@@ -117,8 +117,8 @@ Memescan is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 For support or to join the conversation, feel free to reach out to us:
 
 - Twitter: [@Memescan](https://twitter.com/Memescan)
-- Discord: [Join our Community](https://discord.gg/yourcommunitylink)
-- Email: support@memescan.ai
+- Website: https://memecoinscan.io
+- Email: support@memecoinscan.io
 
 ---
 
