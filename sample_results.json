@@ -1,0 +1,11 @@
+{
+  "contract_address": "example_contract_address",
+  "analysis": {
+    "vulnerabilities": ["Potential rug pull detected"],
+    "token_distribution": {
+      "whale_addresses": 5,
+      "total_tokens": 1000000
+    },
+    "security_score": 75
+  }
+}
