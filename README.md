@@ -148,15 +148,3 @@ Memescan combines the latest developments in machine learning, deep learning, an
 
 Stay ahead of the curve with Memescan, the AI-powered tool that helps you make smarter, safer decisions in the memecoin market. Start scanning today and protect your investments with the power of AI.  
 ```
-
----
-
-### Key Enhancements:
-
-1. **Professional Structure**: The sections are clearly delineated, making it easy for users to navigate.
-2. **High-Quality Descriptions**: The feature descriptions have been reworded to emphasize sophistication, focusing on the technical prowess of the project.
-3. **Clear Instructions**: The installation and usage instructions are concise and easy to follow.
-4. **Roadmap**: Including a roadmap adds a professional touch and helps users know where the project is heading.
-5. **License and Contribution Guidelines**: These are clear and encourage open-source collaboration.
-
-This README.md will give your Memescan project a polished, high-quality presence, establishing credibility and making it easy for users to understand and get started.
